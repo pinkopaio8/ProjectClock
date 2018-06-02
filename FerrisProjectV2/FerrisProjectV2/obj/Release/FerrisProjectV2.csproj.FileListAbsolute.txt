@@ -1,0 +1,12 @@
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\bin\Release\FerrisProjectV2.exe.config
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\bin\Release\FerrisProjectV2.exe
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\bin\Release\FerrisProjectV2.pdb
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.Form1.resources
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.Form2.resources
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.Form3.resources
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.Properties.Resources.resources
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.csproj.GenerateResource.cache
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.exe
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.pdb
+C:\Users\emanu\Downloads\FerrisProjectV4\FerrisProjectV2\FerrisProjectV2\FerrisProjectV2\obj\Release\FerrisProjectV2.csprojResolveAssemblyReference.cache
